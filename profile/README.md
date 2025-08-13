@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Bloomberg Premium Logo](https://www.insper.edu.br/content/insper-portal/en/campus/biblioteca-telles/recursos-de-busca/bloomberg/_jcr_content/root/responsivegrid/wrapper/container_grid/container/wrapper/featured_card_container/image.coreimg.png/1721928093864/pngwing-com--1-.png)
+![Bloomberg Premium Logo](https://flexsub.shop/content/images/2022/02/bloomberg.jpeg)
 
 </div>  
 
